@@ -37,7 +37,8 @@ to implementing robust backends with **Prisma / Node.js / ElysiaJS / NestJS / Po
 ## 🎉 Fun Section
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
-![GitHub Snake](https://github.com/ndlabdev/ndlabdev/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/ndlabdev/ndlabdev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/ndlabdev/ndlabdev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
