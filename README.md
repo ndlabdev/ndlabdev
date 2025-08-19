@@ -1,4 +1,6 @@
-# Hi there 👋 I'm Dang (ndabdev)
+# Hi there 👋 I'm Dang (ndlabdev)
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding GIF"/>
 
 I'm a **Full-stack Developer** passionate about building **modern, scalable, and user-friendly web applications**.  
 My work mainly focuses on crafting clean UI libraries, interactive apps, and backend systems that deliver both performance and great developer experience.  
@@ -34,6 +36,11 @@ to implementing robust backends with **Prisma / Node.js / ElysiaJS / NestJS / Po
 
 ---
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ndlabdev&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🎉 Fun Section
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
@@ -46,6 +53,11 @@ to implementing robust backends with **Prisma / Node.js / ElysiaJS / NestJS / Po
 [![Website](https://img.shields.io/badge/Website-ndlab.dev-green?style=for-the-badge&logo=google-chrome)](https://ndlab.dev)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dang--nguyen--long-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dang-nguyen-long)  
 [![Email](https://img.shields.io/badge/Email-longdang0412%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:longdang0412@gmail.com) 
+
+---
+
+## 👀 Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=ndlabdev&color=blue&style=flat-square)
 
 ---
 
