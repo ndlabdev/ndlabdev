@@ -134,3 +134,9 @@ I'm open to backend, distributed-systems, and full-stack roles — and interesti
 *Pick boring, proven tools. Measure before optimizing. Make failure observable, then make it rare.*
 
 </div>
+
+<div align="center">
+  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U5I521G0AT)
+
+</div>
