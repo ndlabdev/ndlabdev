@@ -7,7 +7,6 @@
 Building scalable backend systems and event-driven architectures that stay reliable at scale.
 
 [![Website](https://img.shields.io/badge/Website-ndlab.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ndlab.dev)
-[![Blog](https://img.shields.io/badge/Blog-ndlab.blog-FF2D20?style=for-the-badge&logo=hashnode&logoColor=white)](https://ndlab.blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dang-nguyen-long/)
 [![Resume](https://img.shields.io/badge/Résumé-PDF-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.ndlab.dev/NGUYEN_LONG_DANG.pdf)
 
@@ -81,17 +80,17 @@ A modern, fully-typed UI component library for **Svelte 5** — built on Tailwin
 `Svelte 5` · `SvelteKit` · `Tailwind CSS 4` · `TypeScript` · `Bits UI`
 🔗 [Live Demo](https://sv5ui.vercel.app/) · [Source](https://github.com/ndlabdev/sv5ui)
 
+### [Thiên Bàn — 3D Web Card Game](https://thienban.app/gioi-thieu/)
+A free, offline-capable **strategy card game** for the browser, built on the Five Elements cycle. Pick one of 10 heroes, build decks from 350 illustrated cards, and battle a search-based AI on a **three.js** board across a 120-stage campaign, roguelike runs, drafts, and weekly events. Installable as a PWA, with no account, ads, or payments.
+
+`TypeScript` · `three.js` · `GSAP` · `Vite` · `Vitest` · `Playwright` · `PWA`
+🔗 [Play](https://thienban.app/) · [About the game](https://thienban.app/gioi-thieu/)
+
 ### NDLab Admin Dashboard
 A production-ready **SaaS admin dashboard** template to accelerate internal tools — pre-built dashboards, RBAC user management, and a scalable architecture.
 
 `Next.js 16` · `TypeScript` · `shadcn/ui` · `Tailwind CSS v4` · `TanStack Table`
 🔗 [Live Demo](https://next-saas-admin.vercel.app/)
-
-### NDLab — Tech Blog
-A long-term personal blog on web engineering, backend architecture, and performance optimization, with MySQL + Redis powering the data and caching layers.
-
-`Laravel 12` · `Filament v4` · `Tailwind CSS` · `MySQL` · `Redis`
-🔗 [Live](https://ndlab.blog/)
 
 ---
 
@@ -124,7 +123,6 @@ A long-term personal blog on web engineering, backend architecture, and performa
 I'm open to backend, distributed-systems, and full-stack roles — and interesting collaborations.
 
 - 🌐 Website — [ndlab.dev](https://ndlab.dev)
-- ✍️ Blog — [ndlab.blog](https://ndlab.blog)
 - 💼 LinkedIn — [dang-nguyen-long](https://www.linkedin.com/in/dang-nguyen-long/)
 - 📄 Résumé — [Download CV](https://www.ndlab.dev/NGUYEN_LONG_DANG.pdf)
 - 📧 Email — [longdang0412@gmail.com](mailto:longdang0412@gmail.com)
